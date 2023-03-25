@@ -1,3 +1,4 @@
 # Table of contents
 
-* [UX Design](README.md)
+* [📙 Intro](README.md)
+* [🚀 About Me](about-me.md)
