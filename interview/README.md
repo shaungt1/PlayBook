@@ -1,8 +1,8 @@
 ---
 description: This section coverts everthing GraphQL
-cover: .gitbook/assets/graphqlclient.jpg
+cover: ../.gitbook/assets/0.png
 coverY: 0
 ---
 
-# GraphQL
+# InterView Qeustions
 

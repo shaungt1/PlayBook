@@ -1,5 +1,5 @@
 # Table of contents
 
-* [GraphQL](README.md)
-* [graphql](graphql-1/README.md)
-  * [Table of contents](graphql-1/summary.md)
+* [InterView Qeustions](README.md)
+* [Interview-questions](interview-questions/README.md)
+  * [Table of contents](interview-questions/summary.md)
