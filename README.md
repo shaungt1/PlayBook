@@ -5,7 +5,9 @@ description: >-
   code blocks, functions, patterns, abstractions
 ---
 
-# 📙 Intro
+# 📙 Getting Started
+
+<figure><img src=".gitbook/assets/blackboard_CPBJ.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/javascriptslowcodeimage.png" alt=""><figcaption></figcaption></figure>
 
