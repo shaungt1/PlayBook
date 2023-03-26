@@ -1,3 +1,3 @@
 # Table of contents
 
-* [GraphQL](README.md)
+* [Projects](README.md)
