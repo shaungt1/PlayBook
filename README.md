@@ -1,9 +1,14 @@
 ---
-description: This page describes API basics
-cover: .gitbook/assets/178_Cover.webp
+cover: .gitbook/assets/eb4bbe7fe0007ef79e1543bb88e7c339f1620032.webp
 coverY: 0
 ---
 
-# API Basics
+# 🖌 Getting started
 
-API Basics
+## Welcome !
+
+A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
+
+{% hint style="info" %}
+Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
+{% endhint %}
