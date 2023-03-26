@@ -1,8 +1,8 @@
 ---
-description: This section coverts everthing GraphQL
-cover: .gitbook/assets/graphqlclient.jpg
+description: This section coverts everthing REST API
+cover: .gitbook/assets/images.jpg
 coverY: 0
 ---
 
-# GraphQL
+# REST API
 
