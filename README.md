@@ -9,7 +9,7 @@ coverY: 0
 
 # 📙 Getting Started
 
-<figure><img src=".gitbook/assets/blackboard_CPBJ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/sourcegraph-vs-code-extension.png" alt=""><figcaption></figcaption></figure>
 
 **Why I Wrote This:**
 
