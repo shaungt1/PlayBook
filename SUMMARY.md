@@ -9,7 +9,7 @@
 * [GraphQL](https://app.gitbook.com/s/giUugK7podorlKccOGNa/)
 * [Projects](https://app.gitbook.com/s/Bj1sIugpoPAtb6z1EHqy/)
 
-## Code
+## Web Code
 
 * [NextJS](http://localhost:5000/s/wb3KdhTFHVekZwa1No1L/)
 * [JavaScript](http://localhost:5000/s/GGlwaOGXGEM85NqoXgYQ/)
