@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Interview Questions](README.md)
+* [API Basics](README.md)
+* [Documenting Fast API](documenting-fast-api.md)
