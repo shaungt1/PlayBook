@@ -9,8 +9,6 @@ description: >-
 
 <figure><img src=".gitbook/assets/blackboard_CPBJ.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/javascriptslowcodeimage.png" alt=""><figcaption></figcaption></figure>
-
 **Why I Wrote This:**
 
 It was my intention to write this book so that I would always have a reference to the various code and engineering problems I solved and spent time learning. This is also a reference to many things I learned in school or working in tech. Furthermore, I found myself spending hours researching something, solving the problem, only to have to find the same information again a few weeks or months later. Therefore, I created this code journal to keep track of all the information. This is just my Journal.
