@@ -2,6 +2,6 @@
 description: Index of all  code categories
 ---
 
-# Index
+# 🗂 Index
 
 ALl my code secrets are here
